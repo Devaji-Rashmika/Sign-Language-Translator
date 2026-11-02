@@ -1,0 +1,3 @@
+A platform connecting food donors with NGOs or organizations that can distribute surplus food. 
+Core functionality: Donors; Food packages; NGOs; Requests; Assignments; Distribution history. 
+Suggested Python component: Predict food demand or prioritize requests.
